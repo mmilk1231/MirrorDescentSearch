@@ -24,6 +24,12 @@ See parameter description.
 * Example: set agent AMDS
 `python main.py --agent AMDS`
 
+### Correspondence between this code and our paper
+- G-AMDS in our paper: `--agent AMDS`
+- G-MDS in our paper: `--agent GMDS`
+- PI2 in our paper: `--agent PI2`
+- REPS in our paper: `--agent REPS`
+
 ### Output file
 Above files are created in the output directory:
 - args.txt: Run arguments.
